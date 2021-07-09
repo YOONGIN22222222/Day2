@@ -1,12 +1,15 @@
 # Day2 프로젝트
 
-##
+## 메뉴
 ![image](https://user-images.githubusercontent.com/83248175/125041991-56454180-e0d4-11eb-8231-deae65012bbc.png)
 
+</br>
 </br>
 
 ![image](https://user-images.githubusercontent.com/83248175/125042096-6e1cc580-e0d4-11eb-8626-5d4b41e5d33b.png)
 
+</br>
+</br>
 
 
 ![image](https://user-images.githubusercontent.com/83248175/125042189-87be0d00-e0d4-11eb-8726-edc81703cf6d.png)
